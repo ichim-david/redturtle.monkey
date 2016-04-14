@@ -1,0 +1,493 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2016-04-14 14:04+0000\n"
+"PO-Revision-Date: 2016-04-14 HO:MI +ZONE\n"
+"Last-Translator: David Ichim <ichim.david@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: ro\n"
+"Language-Name: Romanian\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: redturtle.monkey\n"
+
+#: ../portlet/subscribe.py:98
+msgid "Add MailChimp Portlet"
+msgstr "Adaugă Portlet Mailchimp"
+
+#: ../portlet/addtocampaign.py:26
+msgid "Add item to campaign"
+msgstr "Adauga obiect la campanie"
+
+#: ../browser/controlpanel.pt:83
+msgid "Address 1:"
+msgstr "Adresa 1:"
+
+#: ../browser/controlpanel.pt:87
+msgid "Address 2:"
+msgstr "Adresa 2"
+
+#: ../portlet/subscribe.py:33
+msgid "Available lists"
+msgstr "Liste disponibile"
+
+#: ../content/campaign.py:25
+msgid "Campaign API key"
+msgstr "API key a campaniei"
+
+#: ../profiles/default/types/Campaign.xml
+msgid "Campaign Configuration"
+msgstr "Configurarea campaniei"
+
+#: ../content/campaign.py:33
+msgid "Campaign FROM email"
+msgstr "Adresa de email de la campanie"
+
+#: ../content/campaign.py:41
+msgid "Campaign FROM name"
+msgstr "Nume expeditor campanie"
+
+#: ../profiles/default/portlets.xml
+msgid "Campaign configurator add items to"
+msgstr "Adaugă obiecte la campanie"
+
+#: ../browser/campaign_wizard.pt:106
+msgid "Campaign description"
+msgstr "Descrierea campaniei"
+
+#: ../browser/campaign_wizard.pt:38
+msgid "Campaign details"
+msgstr "Detalii ale campaniei"
+
+#: ../browser/campaign_wizard.pt:31
+msgid "Campaign items"
+msgstr "Obiectele campaniei"
+
+#: ../browser/campaign_wizard.pt:118
+msgid "Campaign number"
+msgstr "Numărul campaniei"
+
+#: ../browser/campaign_wizard.pt:127
+msgid "Campaign template"
+msgstr "Sablonul campaniei"
+
+#: ../browser/campaign_wizard.pt:94
+msgid "Campaign title"
+msgstr "Titlul campaniei"
+
+#: ../portlet/addtocampaign.pt:11
+msgid "Choose campaign configurator:"
+msgstr "Alege configurator-ul campaniei"
+
+#: ../browser/campaign_wizard.pt:32
+msgid "Choose items for mailchimp"
+msgstr "Alege obiecte pentru mailchimp"
+
+#: ../browser/controlpanel.pt:99
+msgid "City:"
+msgstr "Oraș:"
+
+#: ../browser/controlpanel.pt:67
+msgid "Company:"
+msgstr "Companie:"
+
+#: ../portlet/z3cformhelpers.py:21
+msgid "Configure portlet"
+msgstr "Portlet de configurare"
+
+#: ../browser/campaign.py:151
+msgid "Couldn't generate campaign items."
+msgstr "Nu s-a putut genera obiectele pentru campanie."
+
+#: ../browser/controlpanel.pt:103
+msgid "Country:"
+msgstr "Țară:"
+
+#: ../content/campaign.py:26
+msgid "Custom Mailchimp API key for this campaign"
+msgstr "API key al acestei campanie"
+
+#: ../content/campaign.py:34
+msgid "Custom Mailchimp FROM email for this campaign"
+msgstr "Expeditorul acestei campanie"
+
+#: ../content/campaign.py:42
+msgid "Custom Mailchimp FROM name for this campaign"
+msgstr "Numele expeditorului acestei campanie"
+
+#: ../portlet/subscribe.py:40
+msgid "Custom css"
+msgstr "CSS personalizat"
+
+#: ../portlet/subscribe.py:42
+msgid "Custom css class for portlet wrapper"
+msgstr "Clasă CSS personalizat pentru portlet"
+
+#: ../browser/controlpanel.pt:51
+msgid "E-mails left:"
+msgstr "Număr abonați ramași"
+
+#: ../portlet/subscribe.py:110
+msgid "Edit MailChimp Portlet"
+msgstr "Modifică portlet MailChimp"
+
+#: ../interfaces.py:48
+msgid "Email address"
+msgstr "Adresă email"
+
+#: ../interfaces.py:88
+msgid "Email from address"
+msgstr "Adresă email expeditor"
+
+#: ../interfaces.py:95
+msgid "Email from name"
+msgstr "Nume expeditor"
+
+#: ../browser/controlpanel.pt:79
+msgid "Email:"
+msgstr "Email:"
+
+#: ../browser/controlpanel.pt:115
+msgid "Fax:"
+msgstr "Fax:"
+
+#: ../browser/campaign_wizard.pt:39
+msgid "Fill in campaign details"
+msgstr "Introdu detalii a campaniei"
+
+#: ../browser/controlpanel.pt:71
+msgid "First name:"
+msgstr "Nume:"
+
+#: ../browser/campaign_created.pt:14
+msgid "Go to Mailchimp"
+msgstr "Dute la site-ul Mailchimp"
+
+#: ../browser/campaign_wizard.pt:13
+msgid "Info"
+msgstr "Informații"
+
+#: ../interfaces.py:32
+msgid "Invalid email address"
+msgstr "Adresă email invalidă"
+
+#: ../browser/campaign_wizard.pt:57
+msgid "Item"
+msgstr "Obiect"
+
+#: ../browser/campaign.py:45
+msgid "Item added to campaign."
+msgstr "Obiect adăugat la campanie."
+
+#: ../browser/campaign.py:49
+msgid "Item removed from campaign."
+msgstr "Obiect șters de la campanie."
+
+#: ../browser/controlpanel.pt:41
+msgid "Key"
+msgstr "Cheie (API)"
+
+#: ../skins/redturtle.monkey/campaign_view.pt:11
+msgid "Last camapaign"
+msgstr "Ultima campanie trimisă"
+
+#: ../browser/controlpanel.pt:59
+msgid "Last login:"
+msgstr "Ultima autentificare:"
+
+#: ../browser/controlpanel.pt:75
+msgid "Last name:"
+msgstr "Prenume:"
+
+#: ../interfaces.py:64
+msgid "List ID"
+msgstr "ID Listă"
+
+#: ../interfaces.py:55
+msgid "Mail format"
+msgstr "Format email"
+
+#: ../portlet/subscribe.py:61
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: ../interfaces.py:75
+msgid "MailChimp API Key"
+msgstr "API key MailChimp"
+
+#: ../browser/controlpanel.pt:36
+msgid "MailChimp Account"
+msgstr "Cont Mailchimp"
+
+msgid "MailChimp integration for Plone"
+msgstr "Integrare MailChimp pentru Plone"
+
+#: ../browser/controlpanel.py:19
+msgid "MailChimp settings"
+msgstr "Setări MailChimp"
+
+#: ../browser/campaign_created.pt:13
+msgid "Mailchimp campaign created!"
+msgstr "Campania MailChimp creată!"
+
+#: ../browser/campaign.py:163
+msgid "Mailchimp campaign created."
+msgstr "Campania MailChimp creată."
+
+#: ../interfaces.py:117
+msgid "Mailchimp slot name"
+msgstr "Nume slot MailChimp"
+
+#: ../browser/controlpanel.pt:55
+msgid "Member since:"
+msgstr "Membru din anul:"
+
+#: ../portlet/z3cformhelpers.py:65
+msgid "Modify portlet"
+msgstr "Modifică portlet"
+
+#: ../profiles/default/controlpanel.xml
+msgid "Monkey"
+msgstr "Monkey"
+
+#: ../browser/campaign_wizard.pt:173
+msgid "Next"
+msgstr "Urmatorul"
+
+#: ../portlet/addtocampaign.py:63
+msgid "Office information portlet"
+msgstr "Portlet informații birou"
+
+#: ../browser/controlpanel.pt:111
+msgid "Phone:"
+msgstr "Tel:"
+
+#: ../browser/controlpanel.pt:63
+msgid "Plan type:"
+msgstr "Tip plan"
+
+#: ../browser/newsletter_subscribed.pt:16
+msgid "Please Confirm Subscription"
+msgstr "Te rugăm, confirmă abonarea"
+
+#: ../browser/campaign_wizard.pt:172
+msgid "Previous"
+msgstr "Precedent"
+
+#: ../slots/main-body.pt:4
+#: ../slots/main-primopiano.pt:4
+msgid "Read more"
+msgstr "Detalii"
+
+#: ../browser/campaign_wizard.pt:147
+msgid "Recipient list"
+msgstr "Lista de destinatari"
+
+#: ../profiles/default/types/Campaign.xml
+msgid "RedTurtle monkey campaign configuration"
+msgstr "Configurare campanie Mailchimp"
+
+#: ../portlet/subscribe.py:34
+msgid "Select list to subscribe to."
+msgstr "Selectează lista pentru abonare."
+
+#: ../browser/campaign_wizard.pt:153
+msgid "Select the recipient list."
+msgstr "Selectează lista de destinatari."
+
+#: ../browser/campaign_wizard.pt:133
+msgid "Select the template that will be used for this campaign."
+msgstr "Selectează șablonul care va fi folosit pentru aceasta campanie."
+
+#: ../browser/campaign_wizard.pt:174
+msgid "Send"
+msgstr "Trimite"
+
+#: ../browser/controlpanel.pt:18
+msgid "Site Setup"
+msgstr "Setări site"
+
+#: ../browser/campaign_wizard.pt:58
+msgid "Slot"
+msgstr "Slot"
+
+#: ../browser/campaign.py:115
+msgid "Some of the items in your list are private. They were not included in the wizard - MailChimp supports only published content."
+msgstr "Unele din obiectele din listă sunt private. Nu au fost incluse in campanie - Mailchimp permite trimiterea doar a obiectelor publice."
+
+#: ../browser/controlpanel.pt:32
+msgid "Standard"
+msgstr "Standard"
+
+#: ../browser/controlpanel.pt:95
+msgid "State:"
+msgstr "Județ:"
+
+#: ../browser/newsletter.py:33
+#: ../portlet/subscribe.py:81
+msgid "Subscribe to newsletter"
+msgstr "Abonează-te la newsletter"
+
+#: ../portlet/subscribe.py:45
+msgid "Text"
+msgstr "Text"
+
+#: ../portlet/subscribe.py:46
+msgid "The text to render"
+msgstr "Textul de reprodus"
+
+#: ../browser/campaign_wizard.pt:112
+msgid "This field will be used as a campaign content."
+msgstr "Acest camp va fi folosit ca și conținut al campaniei."
+
+#: ../browser/campaign_wizard.pt:121
+msgid "This field will be used as campaign number (ie. Number 7 - February 2013)."
+msgstr "Acest camp va fi folosit ca și număr al campaniei. (ex: Numărul 7 - Feb 2016)."
+
+#: ../portlet/subscribe.py:99
+msgid "This portlet displays a subscription form for a MailChimp newsletter."
+msgstr "Acest portlet afișează un formular de înscriere pentru newsletter MailChimp"
+
+#: ../browser/campaign_wizard.pt:100
+msgid "This title will be used as a campaign title as well as campaign subject."
+msgstr "Acest titlu va fi folosit pentru titlu și subiectul campaniei."
+
+#: ../portlet/subscribe.py:29
+msgid "Title"
+msgstr "Titlu"
+
+#: ../portlet/subscribe.py:30
+msgid "Title of the portlet"
+msgstr "Titlu portlet"
+
+#: ../browser/controlpanel.pt:107
+msgid "URL:"
+msgstr "URL:"
+
+#: ../browser/campaign.py:131
+msgid "Unknown campaign title"
+msgstr "Titlu al campaniei necunoscut"
+
+#: ../portlet/addtocampaign.pt:26
+msgid "Update"
+msgstr "Modifică"
+
+#: ../browser/controlpanel.pt:47
+msgid "Username:"
+msgstr "Nume utilizator:"
+
+#: ../browser/controlpanel.pt:42
+msgid "Value"
+msgstr "Valoare"
+
+#: ../browser/campaign.py:34
+msgid "We have problems processing your request. Not items found."
+msgstr "Avem probleme în a procesa cererea curent. Nu am gasit nici un obiect."
+
+#: ../browser/newsletter.py:125
+msgid "We have to confirm your email address. In order to finish the newsletter subscription, click on the link inside the email we just send you."
+msgstr "Trebuie să confirmăm adresa de email. Pentru a termina procesul de abonare la newsletter, apasă pe link-ul din email-ul ce tocmai l-am trimis"
+
+#: ../browser/newsletter_subscribed.pt:17
+msgid "We need to confirm your email address. Please check your mailbox for the confirmation letter."
+msgstr "Trebuie să confirmăm adresa de email. Verifică-ti inbox-ul pentru primirea confirmării."
+
+#: ../browser/campaign_wizard.pt:14
+msgid "You cannot start wizard configuration. Your campaign doesn't have any items and/or your mailchimp API configuration is wrong."
+msgstr "Nu poți începe configurarea campaniei.Campania ta nu are nici un obiect sau cheia API Mailchimp nu a fost introdusă corect."
+
+#: ../browser/controlpanel.pt:91
+msgid "Zip:"
+msgstr "ZIP:"
+
+#: ../slots/generic.py:30
+msgid "campaign_title"
+msgstr "Titlu campanie"
+
+#: ../skins/redturtle.monkey/campaign_view.pt:14
+msgid "created at"
+msgstr "Creat la"
+
+#: ../slots/generic.py:39
+msgid "header_number"
+msgstr "Număr"
+
+#: ../slots/generic.py:48
+msgid "header_title"
+msgstr "Titlu"
+
+#. Default: "Enter in your MailChimp key here (.e.g. '8b785dcabe4b5aa24ef84201ea7dcded-us4'). Log into mailchimp.com, go to account -> extras -> API Keys & Authorized Apps and copy the API Key to this field."
+#: ../interfaces.py:76
+msgid "help_api_key"
+msgstr "Introdu cheia de la MailChimp (ex '8b785dcabe4b5aa24ef84201ea7dcded-us4'). Log-in la mailchimp.com, dute la account -> extras -> API Keys & Authorized Apps și lipește API Key in acest câmp."
+
+#. Default: "Please enter your email address."
+#: ../interfaces.py:49
+msgid "help_email"
+msgstr "Introdu adresa ta de email."
+
+#. Default: "Please choose type of newsletter you wish to receive."
+#: ../interfaces.py:57
+msgid "help_email_type"
+msgstr "Introdu tipul de newsletter ce dorești să primești."
+
+#. Default: "Please enter FROM email address."
+#: ../interfaces.py:89
+msgid "help_from_email"
+msgstr "Introduceți email al expeditorului"
+
+#. Default: "Please enter FROM email name."
+#: ../interfaces.py:96
+msgid "help_from_name"
+msgstr "Introduceți numele expeditorului"
+
+#. Default: "Campaign's items"
+#: ../content/campaign.py:57
+msgid "label_campaign_items"
+msgstr "Obiectele campaniei"
+
+#. Default: "Cancel"
+#: ../portlet/z3cformhelpers.py:50
+msgid "label_cancel"
+msgstr "Anulează"
+
+#. Default: "Save"
+#: ../portlet/z3cformhelpers.py:39
+msgid "label_save"
+msgstr "Salvează"
+
+#. Default: "Could not subscribe to newsletter. Please contact the site administrator: '${error}'"
+#: ../browser/newsletter.py:111
+msgid "mailchimp_error_msg"
+msgstr "Înscrierea la newsletter nu s-a putut realiza. Contactează administratorul site-ului: '${error}'"
+
+#. Default: "Could not subscribe to newsletter. The email '${email}' is already subscribed."
+#: ../browser/newsletter.py:83
+msgid "mailchimp_error_msg_already_subscribed"
+msgstr "Înscrierea la newsletter nu s-a putut realiza. Adresa '${email}' este deja înregistrată."
+
+#. Default: "Could not subscribe to newsletter. The email '${email}' has been banned."
+#: ../browser/newsletter.py:97
+msgid "mailchimp_error_msg_banned"
+msgstr "Înscrierea la newsletter nu s-a putut realiza. Adresa '${email}' este banată."
+
+#: ../slots/generic.py:14
+msgid "main_body"
+msgstr "corpul principal"
+
+#: ../slots/generic.py:7
+msgid "main_primopiano"
+msgstr "primul slot"
+
+#: ../slots/generic.py:21
+msgid "preheader_content"
+msgstr "conținut"
+
+#. Default: "Subscribe"
+#: ../browser/newsletter.py:52
+msgid "subscribe_to_newsletter_button"
+msgstr "Abonează-te"
+

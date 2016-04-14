@@ -4,7 +4,7 @@ Changelog
 1.2.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Added Romanian translation [ichim-david]
 
 
 1.2.1 (2014-08-04)
